@@ -148,6 +148,7 @@ ul li a:hover{
     margin-left: 20px;
     font-size: 18px;
     border-radius: 10px;
+    font-weight: bold;
     cursor: pointer;
     transition: .4s ease;
     
